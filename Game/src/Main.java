@@ -6,6 +6,7 @@ public class Main {
 
         if (i = 1){
             //hir arbeitet Elias
+            System.out.println("hello world");
 
 
         }else{
