@@ -4,17 +4,22 @@ public class Main {
         System.out.println("Hello World");
         int i = 0;
 
-        if (i = 1){
-            //hir arbeitet Elias
-            System.out.println("hello world");
+        boolean amLeben == true;
+
+        while(amLeben == true) {
+
+            if (i = 1) {
+                //hir arbeitet Elias
+                System.out.println("hello world");
 
 
-        }else{
-            //hir arbeitet Jona
+            } else {
+                //hir arbeitet Jona
 
-            System.out.println("Es Klappt!");
+                System.out.println("Es Klappt!");
 
 
+            }
         }
 
     }
